@@ -1,4 +1,5 @@
-# squash #
+squash
+======
 
 Testing out adbcj -- asynchronous relational database access for Java.
 
